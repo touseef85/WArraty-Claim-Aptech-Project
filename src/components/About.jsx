@@ -39,7 +39,7 @@ const About = () => {
         data-aos="fade-down"
         className="text-3xl font-semibold text-center text-[#7A6960]"
       >
-        About Us
+        About Us wit aptech
       </h1>
       <div className="flex justify-center items-center mt-2 mb-10">
         <div className="bg-orange-600 h-1 w-16 rounded"></div>
